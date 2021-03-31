@@ -4,7 +4,7 @@ const products = [
       name:"Rose",
       type:"Pale",
       price: 125,
-      image:"../../images/rose.png",
+      image:"https://github.com/ayasandra/shop/blob/master/public/images/rose.png?raw=true",
    },
       
    {
