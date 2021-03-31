@@ -12,7 +12,7 @@ const products = [
       name:"Green",
       type:"Bright",
       price:75,
-      image:"images/green.png",
+      image:"https://github.com/ayasandra/shop/blob/master/public/images/green.png?raw=true",
    },
 
    {
@@ -20,7 +20,7 @@ const products = [
       name:"Blue",
       type:"Pale",
       price:90,
-      image:"images/blue.png",
+      image:"https://github.com/ayasandra/shop/blob/master/public/images/blue.png?raw=true",
    },
 
    {
@@ -28,7 +28,7 @@ const products = [
       name:"Violet",
       type:"Bright",
       price:110,
-      image:"images/violet.png",
+      image:"https://github.com/ayasandra/shop/blob/master/public/images/violet.png?raw=true",
    },
 
    {
@@ -36,7 +36,7 @@ const products = [
       name:"Yellow",
       type:"Bright",
       price:110,
-      image:"images/yellow.png",
+      image:"https://github.com/ayasandra/shop/blob/master/public/images/yellow.png?raw=true",
    },
 
    {
@@ -44,7 +44,7 @@ const products = [
       name:"Grey",
       type:"Pale",
       price:70,
-      image:"images/grey.png",
+      image:"https://github.com/ayasandra/shop/blob/master/public/images/grey.png?raw=true",
    },
    
 
