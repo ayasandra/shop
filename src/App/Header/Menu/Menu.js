@@ -7,7 +7,7 @@ const Menu = () => {
    return (
          <div className="menu">
             <ul>
-               <li><Link to="/">Home</Link></li>
+               <li><Link to="/shop/">Home</Link></li>
                <li><Link to="/aboutus">About Us</Link></li>
                <li><Link to="/contacts">Contacts</Link></li>
             </ul>
