@@ -18,7 +18,7 @@ const Main = () => {
                      Some text
                   </div>
                   <div class="col-lg-9">
-                     <Route path="/" exact component={ProductList} />
+                     <Route path="/shop/" exact component={ProductList} />
                      <Route path="/cart" component={CartPage} />
                      <Route path="/aboutus" component={AboutUs} />
                      <Route path="/contacts" component={Contacts} />
