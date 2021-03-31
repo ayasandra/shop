@@ -1,0 +1,32 @@
+.about__body p, .contacts__body p {
+   font-size: 20px;
+   color: #fff;
+   padding: 20px 0;
+}
+
+.checkout-form {
+   color: #fff;
+   font-size: 20px;
+}
+
+.checkout-input input{
+   width: 200px;
+   height: 30px;
+   border: none;
+   border-radius: 3px;
+   margin: 10px 0;
+}
+
+.checkout-btn {
+   width: 200px;
+   background-color: rgb(151, 151, 151);
+   height: 40px;
+   border: none;
+   border-radius: 4px;
+   font-weight: bold;
+}
+
+.checkout-btn:hover {
+   background-color: rgb(79, 182, 47);
+   color: #fff;
+}
