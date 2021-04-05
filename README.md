@@ -1,1 +1,1 @@
-This App demonstrates my skills and knowledge in React. On this web page, you can freely navigate through categories and links, add an item to the cart, change the quantity of items, edit and delete items in the cart, see the total amount of selected items, and place an order.
+This App demonstrates my skills and knowledge in React. On this web page, you can freely navigate through categories and links, add an item to the cart, change the quantity of items, edit and delete items in the cart, see the total amount of selected items, and place an order./only desktop version
